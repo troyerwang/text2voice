@@ -1,0 +1,10 @@
+_Store
+*.log
+tmp/
+
+.yardoc/
+_yardoc/
+coverage/
+rdoc/
+doc/
+Gemfile.lock
